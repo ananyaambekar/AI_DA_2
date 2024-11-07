@@ -4,7 +4,7 @@ from sklearn.linear_model import LogisticRegression
 
 class LearningAgent:
     def __init__(self, schedule_file, history_file):
-        # Load schedule and history data from CSV
+      # Load schedule and history data from CSV
         self.schedule = pd.read_csv(schedule_file) 
         self.history = pd.read_csv(history_file)
         
