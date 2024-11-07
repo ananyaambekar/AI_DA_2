@@ -1,0 +1,7 @@
+Day,Time,Course,Attended,Crucial
+Monday,08:00-08:50,DBMS,1,No
+Tuesday,10:00-10:50,Operating Systems,0,No
+Thursday,16:00-16:50,Compiler Design,1,Yes
+Monday,10:00-10:50,Computer Networks,0,No
+Friday,11:00-11:50,AI,1,Yes
+Monday,11:00-11:50,Java,0,Yes
